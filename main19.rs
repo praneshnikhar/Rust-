@@ -1,3 +1,5 @@
+//to kewn more from where the code has taken visit - https://projects.100xdevs.com/tracks/rust-bootcamp/Rust-Bootcamp-16
+
 struct Rect{
     width:u32 ,
     height:u32,
